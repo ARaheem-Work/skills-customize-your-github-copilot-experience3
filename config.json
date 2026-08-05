@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-mini-library-api",
+      "title": "SQLite Mini Library API",
+      "description": "Use Python and SQLite to build a mini library manager with CRUD-style operations and simple search.",
+      "path": "assignments/sqlite-mini-library-api",
+      "dueDate": "2026-08-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
